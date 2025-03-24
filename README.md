@@ -16,7 +16,7 @@
 
 ### Workflow diagram
 
-![Collected data structure and systematic workflow to select effective indexes](./figures/Figure1.jpg)
+![Collected data structure and systematic workflow to select effective indexes](./figures/Figure 1.jpg)
 
 4 different quality assessment process
 
