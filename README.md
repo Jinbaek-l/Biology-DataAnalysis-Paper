@@ -33,7 +33,7 @@
 - `14 indexes collected by data pipeline` → `EDA(Descriptive statistics, Group-wise comparison), Correlation analysis` → `3 indexes selected`
 
 ### Conclusion
-10 effective indexes are directionally matched and integrated into a weighted arithmetic mean = NGS applicability index
+10 effective indexes are directionally matched and integrated into a weighted arithmetic mean 
 
 
 # File Structure
