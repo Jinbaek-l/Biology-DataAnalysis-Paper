@@ -5,16 +5,16 @@
 ### 📄 Publication Info
 - **Journal**: *Frontiers in Veterinary Science* (SCI, JCR Top 10%)  
 - **Published**: 21 February 2023  
-- **Citation**: Park S, Lee J, Kim J, Kim D, Lee JH, Pack SP, and Seo M (2023). Benchmark study for evaluating the quality of reference genomes and gene annotations in 114 species. *Front. Vet. Sci.* 10:1128570. https://doi.org/10.3389/fvets.2023.1128570  
+- **Citation**: Park S, Lee J, Kim J, Kim D, Lee JH, Pack SP, and Seo M (2023). Benchmark study for evaluating the quality of reference genomes and gene annotations in 114 species. *Front. Vet. Sci.* 10:1128570. 
 
 ### 🙋‍♂️ My Contribution
 - **Co–first author** (authors contributed equally to this work)  
-- Designed the study, Data collection and preprocessing, EDA and statistical analysis, Visualization, Manuscript writing
+- Designed study, Data collection and preprocessing, EDA and statistical analysis, Visualization, Manuscript writing
 
   
-# Paper overview
+# Summary
 
-### Workflow diagram
+### Schematic diagram
 
 <img src="figures/Figure1.jpg" alt="Collected data structure and systematic workflow" width="700"/>
 
