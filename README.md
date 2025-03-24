@@ -9,28 +9,28 @@
 
 ### 🙋‍♂️ My Contribution
 - **Co–first author** (authors contributed equally to this work)  
-- Designed the study / Data collection and preprocessing / EDA and statistical analysis / Visualization / Manuscript writing
+- Designed the study, Data collection and preprocessing, EDA and statistical analysis, Visualization, Manuscript writing
 
   
 # Paper overview
 
 ### Workflow diagram
 
-![Collected data structure and systematic workflow to select effective indexes](figures/Figure1.jpg)
+<img src="figures/Figure1.jpg" alt="Collected data structure and systematic workflow" width="700"/>
 
-4 different quality assessment process
+**4 different quality assessment process**
 
 **Process Red**
-- 20 indexes directly collected  → EDA(Descriptive statistics, Group-wise comparison), Correlation analysis → 3 indexes selected
+- `20 indexes directly collected`  → `EDA(Descriptive statistics, Group-wise comparison), Correlation analysis` → `3 indexes selected`
 
 **Process Blue** 
-- 37 indexes collected by data pipeline → Correlation analysis → 3 indexes selected
+- `37 indexes collected by data pipeline` → `Correlation analysis` → `3 indexes selected`
 
 **Process Green** 
-- 30 indexes directly collected → Dimensionality Reduction, EDA(Descriptive statistics, Group-wise comparison), Correlation analysis → 1 index selected
+- `30 indexes directly collected` → `Dimensionality Reduction, EDA(Descriptive statistics, Group-wise comparison), Correlation analysis` → `1 index selected`
 
 **Process Yellow** 
-- 14 indexes collected by data pipeline → EDA(Descriptive statistics, Group-wise comparison), Correlation analysis → 3 indexes selected
+- `14 indexes collected by data pipeline` → `EDA(Descriptive statistics, Group-wise comparison), Correlation analysis` → `3 indexes selected`
 
 ### Conclusion
 10 effective indicators are ~~~
