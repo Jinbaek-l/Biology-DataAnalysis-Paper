@@ -1,5 +1,5 @@
 # Description
-- **Topic**: Multivariate EDA and statistical modeling of massive biological data to develop quality assessment index
+- **Topic**: Developed a quality assessment index using multivariate EDA and statistical modeling on large-scale domain-specific data
 - **Tools**: R, bash, Illustrator  
 
 ### 📄 Publication Info
