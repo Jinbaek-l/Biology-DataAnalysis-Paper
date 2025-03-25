@@ -4,7 +4,6 @@
 
 ### 📄 Publication Info
 - **Journal**: *Frontiers in Veterinary Science* (SCI, JCR Top 10%)  
-- **Published**: 21 February 2023  
 - **Citation**: Park S, Lee J, Kim J, Kim D, Lee JH, Pack SP, and Seo M (2023). Benchmark study for evaluating the quality of reference genomes and gene annotations in 114 species. *Front. Vet. Sci.* 10:1128570. 
 
 ### 🙋‍♂️ My Contribution
@@ -22,7 +21,7 @@
 
 🟥 **Process Red**
 
-20 indexes directly collected from 114 species  &nbsp;➔&nbsp;  Pre-processing &nbsp;➔&nbsp; EDA(Descriptive statistics, Group-wise comparison), Correlation analysis &nbsp;➔&nbsp; **3 indexes selected**
+20 indexes directly collected from 109 species  &nbsp;➔&nbsp;  Pre-processing &nbsp;➔&nbsp; EDA(Descriptive statistics, Group-wise comparison), Correlation analysis &nbsp;➔&nbsp; **3 indexes selected**
 
 🟦 **Process Blue** 
 
@@ -30,7 +29,7 @@
 
 🟩 **Process Green** 
 
-30 indexes directly collected from 114 species &nbsp;➔&nbsp; Pre-processing &nbsp;➔&nbsp; Dimensionality reduction, EDA, Correlation analysis &nbsp;➔&nbsp; **1 index selected**
+30 indexes directly collected from 102 species &nbsp;➔&nbsp; Pre-processing &nbsp;➔&nbsp; Dimensionality reduction, EDA, Correlation analysis &nbsp;➔&nbsp; **1 index selected**
 
 🟨 **Process Yellow** 
 
