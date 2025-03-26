@@ -1,5 +1,5 @@
 # Description
-- **Title**: Developed a quality assessment index using multivariate EDA and statistical modeling on large-scale biology data &nbsp; **`대규모 생물학 데이터에 대한 다변량 EDA 및 통계 모델링을 사용하여 품질 평가 지표 개발`**
+- **Title**: Developed a quality assessment index using multivariate EDA and statistical modeling on large-scale biological data &nbsp; **`대규모 생물학 데이터에 대한 다변량 EDA 및 통계 모델링을 사용하여 품질 평가 지표 개발`**
 - **Tools**: R, bash, Illustrator  
 - **Skills**: Exploratory data analysis, Correlation analysis, Unsupervised learning, Data ETL pipeline, Data preprocessing, Visualization
 
@@ -8,23 +8,23 @@
 - **Citation**: Park S, Lee J, Kim J, Kim D, Lee JH, Pack SP, and Seo M (2023). Benchmark study for evaluating the quality of reference genomes and gene annotations in 114 species. *Front. Vet. Sci.* 10:1128570. 
 
 ### 🙋‍♂️ My Contribution
-- **Co–first author** (50% contribution to the overall research and manuscript)  
+- **Co–first author** (50% contribution to the overall research and manuscript writing)  
 <br><br>
 # Summary
 
 ### 🧩 Problem
 
-There was no systematic way to simultaneously assess the quality of two sources which directly impact the reliability of biomedical research.
+There was no systematic research to simultaneously assess the quality of two materials that directly impact the reliability of biomedical research.
 
 ### 🔍 Approach & Workflow
 
 <img src="figures/Figure1.jpg" alt="Collected data structure and systematic workflow" width="700"/>
 
-To address this problem, we design <br>   **Four different processes for selecting indexes that can be evaluated for relative quality**   
+To address this problem, we designed <br>   **Four different processes for selecting indicators that can be evaluated for relative quality**   
    
 🟥 **Process Red**
 
-20 indexes directly collected from 109 species  &nbsp;➔&nbsp;  Pre-processing &nbsp;➔&nbsp; EDA(Descriptive statistics, Group-wise comparison), Correlation analysis &nbsp;➔&nbsp; **3 indexes selected**
+20 indexes directly collected from 109 species  &nbsp;➔&nbsp;  Pre-processing &nbsp;➔&nbsp; EDA(descriptive statistics, group-wise comparison), Correlation analysis &nbsp;➔&nbsp; **3 indexes selected**
 
 🟦 **Process Blue** 
 
@@ -43,7 +43,7 @@ A total of 10 selected indicators were directionally matched and integrated usin
 <br><br>
 # File Structure
 
-✅ Data and codes for analysis and visualization reproducibility have been uploaded. Full data can be found in the paper Supplementary material.
+✅ Data and scripts for analysis and visualization reproducibility have been uploaded.. Full data can be found in the paper Supplementary material.
 
 ### 📁 Data 
 **species.txt**: &nbsp;Scientific names of 114 species
@@ -73,18 +73,18 @@ A total of 10 selected indicators were directionally matched and integrated usin
 
 
 ### 📑 Scripts
-**package_manager.R**: &nbsp;This script is for installation and calling for required packages for this scripts. You don't need to run this script.
+**package_manager.R**: &nbsp;This script installs and loads the required packages for the other scripts. You don't need to run this script.
 
-**1_assembly_quality_statistic.R**: &nbsp;R script for analysis & visualization in `Process Red`. The index selection logic is described in second section of Results.
+**1_assembly_quality_statistic.R**: &nbsp;R script for analysis and visualization in `Process Red`. The index selection logic is described in second section of Results.
 
-**2_alignment_quality_statistics.R**: &nbsp;R script for analysis & visualization in `Process Blue`. The index selection logic is described in third section of Results.
+**2_alignment_quality_statistics.R**: &nbsp;R script for analysis and visualization in `Process Blue`. The index selection logic is described in third section of Results.
 
-**3_gene_annotation_quality_statistic.R**: &nbsp;R script for analysis & visualization in `Process Green`. The index selection logic is described in fourth section of Results.
+**3_gene_annotation_quality_statistic.R**: &nbsp;R script for analysis and visualization in `Process Green`. The index selection logic is described in fourth section of Results.
 
-**4_quantification_quality_statistics.R**: &nbsp;R script for analysis & visualization in `Process Yellow`. The index selection logic is described in fifth section of Results.
+**4_quantification_quality_statistics.R**: &nbsp;R script for analysis and visualization in `Process Yellow`. The index selection logic is described in fifth section of Results.
 
 **5_ngs_applicable_index.R**: &nbsp;R script for visualization of 10 selected indexes and an integrated quality index for 114 species.
 
-**data-pipeline/**: The bash scripts below this directory are pipeline codes for formatting biological data
+**data-pipeline/**: The bash scripts in this directory contain pipeline code for formatting biological data.
 
 
