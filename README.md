@@ -13,32 +13,66 @@
 # Summary
 ### 🧩 Problem
 
-There was no systematic research to simultaneously assess the quality of two materials that directly impact the reliability of biomedical research.
+의생명 연구의 신뢰성에 직접적인 영향을 미치는 두 가지 자료의 상대적인 품질을 동시에 평가하는 체계적인 연구는 존재 하지 않음 
 
 ### 🔍 Approach & Workflow
 
 <img src="figures/Figure1.jpg" alt="Collected data structure and systematic workflow" width="700"/>
 
-To address this problem, we designed <br>   **Four different processes for selecting indicators to assess the relative quality of two materials**   
+이 문제를 해결하기 위해, **두 자료의 상대적 품질을 평가할 수 있는 지표를 선정하는 네 가지 프로세스**를 설계하였음
 
 🟥 **Process Red**
 
-20 indexes directly collected from 109 species  &nbsp;➔&nbsp;  Pre-processing &nbsp;➔&nbsp; EDA(descriptive statistics, group-wise comparison), Correlation analysis &nbsp;➔&nbsp; **3 indexes selected**
+직접 수집한 20개 지표 &nbsp;➔&nbsp;  전처리 &nbsp;➔&nbsp; EDA(기초 통계 분석, 그룹 간 비교 분석), 상관 분석 &nbsp;➔&nbsp; **3개 지표 선별**
+<br>
+> 어떻게 지표 선택 시 분석이 활용되었는가?
+
+- 모델 종은 상대적으로 데이터 품질이 높을 것이라 가정
+
+- 기존 품질 평가 지표 2개를 종의 특성에 맞춰 정규화하여, 모델 종의 품질이 상대적으로 높다는 가정을 수치적으로 검증
+
+- 정규화된 값과 나머지 지표간 상관관계 분석 수행한 결과, 강한 양의 상관 관계를 가지며 모델 종에서 항상 높은 값을 보이는 지표 발견
+
 
 🟦 **Process Blue** 
 
-37 indexes collected by pipeline on 3,420 samples &nbsp;➔&nbsp; Pre-processing &nbsp;➔&nbsp; Correlation analysis &nbsp;➔&nbsp; **3 indexes selected**
+파이프라인을 통해 수집한 37개 지표 &nbsp;➔&nbsp; 전처리 &nbsp;➔&nbsp; 상관 분석 &nbsp;➔&nbsp; **3개 지표 선별**
+<br>
+> 어떻게 지표 선택 시 분석이 활용되었는가?
+
+- write here
+
+- write here
+
+- write here
 
 🟩 **Process Green** 
 
-30 indexes directly collected from 102 species &nbsp;➔&nbsp; Pre-processing &nbsp;➔&nbsp; Dimensionality reduction, EDA, Correlation analysis &nbsp;➔&nbsp; **1 index selected**
+직접 수집한 30개 지표 &nbsp;➔&nbsp; 전처리 &nbsp;➔&nbsp; 차원 축소, EDA, 상관 분석 &nbsp;➔&nbsp; **1개 지표 선별**
+<br>
+> 어떻게 지표 선택 시 분석이 활용되었는가?
+
+- write here
+
+- write here
+
+- write here
+
 
 🟨 **Process Yellow** 
 
-14 indexes collected by pipeline on 3,420 samples &nbsp;➔&nbsp; Pre-processing &nbsp;➔&nbsp; EDA, Correlation analysis &nbsp;➔&nbsp; **3 indexes selected**
+파이프라인을 통해 수집한 14개 지표 &nbsp;➔&nbsp; 전처리 &nbsp;➔&nbsp; EDA, 상관 분석 &nbsp;➔&nbsp; **3개 지표 선별**
+<br>
+> 어떻게 지표 선택 시 분석이 활용되었는가?
+
+- write here
+
+- write here
+
+- write here
 
 ### 📈 Conclusion
-A total of 10 selected indicators were directionally matched and integrated using a weighted arithmetic mean ▶ Development of novel quality assessment index
+선정된 총 10개 지표의 방향성 매칭 후, 가중 산술 평균을 이용하여 통합 ▶ 성공적으로 새로운 품질 평가 지표 개발하였으며, 기존 연구와 비교하여 차별성을 검증함
 <br><br>
 # File Structure
 
