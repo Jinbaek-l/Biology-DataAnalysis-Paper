@@ -1,5 +1,5 @@
 # Description
-- **Topic**: Developed a quality assessment index using multivariate EDA and statistical modeling on large-scale biology data
+- **Topic**: Developed a quality assessment index using multivariate EDA and statistical modeling on large-scale biology data <br> `대규모 생물학 데이터에 대한 다변량 EDA 및 통계 모델링을 사용하여 품질 평가 지표 개발`
 - **Tools**: R, bash, Illustrator  
 
 ### 📄 Publication Info
