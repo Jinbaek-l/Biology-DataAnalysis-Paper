@@ -1,6 +1,7 @@
 # Description
 - **Topic**: Developed a quality assessment index using multivariate EDA and statistical modeling on large-scale biology data <br> `대규모 생물학 데이터에 대한 다변량 EDA 및 통계 모델링을 사용하여 품질 평가 지표 개발`
 - **Tools**: R, bash, Illustrator  
+- **Skills**: Exploratory data analysis, Correlation analysis, Unsupervised learning, Data formalization, Data preprocessing, Visualization
 
 ### 📄 Publication Info
 - **Journal**: *Frontiers in Veterinary Science* (SCI, JCR Top 10%)  
@@ -8,7 +9,7 @@
 
 ### 🙋‍♂️ My Contribution
 - **Co–first author** (50% contribution)  
-- Design study, Data collection and preprocessing, EDA and statistical analysis, Visualization, Manuscript writing
+- Design study, Data collection ∙ preprocessing ∙ analysis ∙ visualization, Manuscript writing
 <br><br>
 # Summary
 
