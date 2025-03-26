@@ -1,5 +1,5 @@
 # Description
-- **Topic**: Developed a quality assessment index using multivariate EDA and statistical modeling on large-scale biology data &nbsp; `대규모 생물학 데이터에 대한 다변량 EDA 및 통계 모델링을 사용하여 품질 평가 지표 개발`
+- **Title**: Developed a quality assessment index using multivariate EDA and statistical modeling on large-scale biology data &nbsp; `대규모 생물학 데이터에 대한 다변량 EDA 및 통계 모델링을 사용하여 품질 평가 지표 개발`
 - **Tools**: R, bash, Illustrator  
 - **Skills**: Exploratory data analysis, Correlation analysis, Unsupervised learning, Data formalization, Data preprocessing, Visualization
 
@@ -8,7 +8,7 @@
 - **Citation**: Park S, Lee J, Kim J, Kim D, Lee JH, Pack SP, and Seo M (2023). Benchmark study for evaluating the quality of reference genomes and gene annotations in 114 species. *Front. Vet. Sci.* 10:1128570. 
 
 ### 🙋‍♂️ My Contribution
-- **Co–first author** (50% contribution)  
+- **Co–first author** (50% contribution to the overall research and manuscript)  
 - Design study, Data collection ∙ preprocessing ∙ analysis ∙ visualization, Manuscript writing
 <br><br>
 # Summary
@@ -84,7 +84,7 @@ A total of 10 selected indicators were directionally matched and integrated usin
 
 **4_quantification_quality_statistics.R**: &nbsp;R script for analysis & visualization in `Process Yellow`. The index selection logic is described in fifth section of Results.
 
-**5_ngs_applicable_index.R**: &nbsp;R script for visualisation of 10 selected indexes and an integrated quality index for 114 species.
+**5_ngs_applicable_index.R**: &nbsp;R script for visualization of 10 selected indexes and an integrated quality index for 114 species.
 
 **data-pipeline/**: The bash scripts below this directory are pipeline codes for formatting biological data
 
