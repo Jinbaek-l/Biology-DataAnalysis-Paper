@@ -1,5 +1,5 @@
 # Description
-- **Topic**: Developed a quality assessment index using multivariate EDA and statistical modeling on large-scale domain-specific data
+- **Topic**: Developed a quality assessment index using multivariate EDA and statistical modeling on large-scale biology data
 - **Tools**: R, bash, Illustrator  
 
 ### 📄 Publication Info
@@ -9,16 +9,19 @@
 ### 🙋‍♂️ My Contribution
 - **Co–first author** (50% contribution)  
 - Design study, Data collection and preprocessing, EDA and statistical analysis, Visualization, Manuscript writing
-
-  
+<br><br>
 # Summary
 
-### Schematic diagram
+### 🧩 Problem
+
+There was no systematic way to simultaneously assess the quality of two sources which directly impact the reliability of biomedical research.
+
+### 🔍 Approach & Workflow
 
 <img src="figures/Figure1.jpg" alt="Collected data structure and systematic workflow" width="700"/>
 
-**Four different processes for selecting indexes that can be evaluated for relative quality**
-
+To address this problem, we design <br>   **Four different processes for selecting indexes that can be evaluated for relative quality**   
+   
 🟥 **Process Red**
 
 20 indexes directly collected from 109 species  &nbsp;➔&nbsp;  Pre-processing &nbsp;➔&nbsp; EDA(Descriptive statistics, Group-wise comparison), Correlation analysis &nbsp;➔&nbsp; **3 indexes selected**
@@ -35,9 +38,9 @@
 
 14 indexes collected by pipeline on 3,420 samples &nbsp;➔&nbsp; Pre-processing &nbsp;➔&nbsp; EDA, Correlation analysis &nbsp;➔&nbsp; **3 indexes selected**
 
-### Conclusion
-10 selected indexes were directionally matched, and integrated using a weighted arithmetic mean ▶ Develop new quality assessment index
-
+### 📈 Conclusion
+A total of 10 selected indicators were directionally matched and integrated using a weighted arithmetic mean ▶ Development of novel quality assessment index
+<br><br>
 # File Structure
 
 ✅ Data and codes for analysis and visualization reproducibility have been uploaded. Full data can be found in the paper Supplementary material.
