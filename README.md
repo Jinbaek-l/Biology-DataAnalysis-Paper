@@ -19,8 +19,8 @@ There was no systematic research to simultaneously assess the quality of two mat
 
 <img src="figures/Figure1.jpg" alt="Collected data structure and systematic workflow" width="700"/>
 
-To address this problem, we designed <br>   **Four different processes for selecting indicators that can be evaluated for relative quality**   
-   
+To address this problem, we designed <br>   **Four different processes for selecting indicators to assess the relative quality of two materials**   
+
 🟥 **Process Red**
 
 20 indexes directly collected from 109 species  &nbsp;➔&nbsp;  Pre-processing &nbsp;➔&nbsp; EDA(descriptive statistics, group-wise comparison), Correlation analysis &nbsp;➔&nbsp; **3 indexes selected**
