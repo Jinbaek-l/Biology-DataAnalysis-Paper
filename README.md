@@ -8,8 +8,9 @@
 - **Citation**: Park S, Lee J, Kim J, Kim D, Lee JH, Pack SP, and Seo M (2023). Benchmark study for evaluating the quality of reference genomes and gene annotations in 114 species. *Front. Vet. Sci.* 10:1128570. 
 
 ### 🙋‍♂️ My Contribution
-- **Co–first author** (50% contribution to the overall research and manuscript)  
-- Design study, Data collection ∙ preprocessing ∙ analysis ∙ visualization, Manuscript writing
+- **Co–first author** 
+
+50% contribution to the overall research and manuscript)  
 <br><br>
 # Summary
 
