@@ -21,9 +21,9 @@
 
 ### 🔍 Approach & Workflow
 
-<img src="figures/Figure1.jpg" alt="Collected data structure and systematic workflow" width="700"/>
-
 이 문제를 해결하기 위해, **두 자료의 상대적 품질을 평가할 수 있는 지표를 선정하는 네 가지 프로세스**를 설계하였음
+
+<img src="figures/Figure1.jpg" alt="Collected data structure and systematic workflow" width="700"/>
 
 🟥 **Process Red**
 
