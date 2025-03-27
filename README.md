@@ -1,6 +1,10 @@
 # Description
 - **Title**: Developed a quality assessment index using multivariate EDA and statistical modeling on large-scale biological data &nbsp; **`대규모 생물학 데이터에 대한 다변량 EDA 및 통계 모델링을 사용하여 품질 평가 지표 개발`**
-- **Tools**: R, bash, Illustrator  
+
+- **Tools**:&nbsp;&nbsp;
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 - **Skills**: Exploratory data analysis, Correlation analysis, Unsupervised learning, Data ETL pipeline, Data preprocessing, Visualization
 
 ### 📄 Publication Info
@@ -11,7 +15,7 @@
 - **Co–first author** (50% contribution to the overall research and manuscript writing)
 <br><br>
 # Summary
-### 🧩 Problem
+### 🤔 Problem
 
 의생명 연구의 신뢰성에 직접적인 영향을 미치는 두 가지 유전 정보 자료의 상대적인 품질을 동시에 평가하는 체계적인 연구는 존재 하지 않음 
 
