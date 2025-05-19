@@ -27,7 +27,7 @@
 
 🟥 **Process Red**
 
-API를 통해 직접 수집한 20개 지표 &nbsp;➔&nbsp;  전처리 &nbsp;➔&nbsp; EDA (기초 통계 분석, 그룹 간 비교 분석), 상관 분석 &nbsp;➔&nbsp; **3개 지표 선별**
+API를 통해 수집한 20개 지표 &nbsp;➔&nbsp;  전처리 &nbsp;➔&nbsp; EDA (기초 통계 분석, 그룹 간 비교 분석), 상관 분석 &nbsp;➔&nbsp; **3개 지표 선별**
 <br>
 > 지표 선택 시 어떻게 분석이 활용되었는가?
 
@@ -40,7 +40,7 @@ API를 통해 직접 수집한 20개 지표 &nbsp;➔&nbsp;  전처리 &nbsp;➔
 
 🟦 **Process Blue** 
 
-대규모 데이터 정형화 파이프라인을 통해 확보한 37개 지표 &nbsp;➔&nbsp; 전처리 &nbsp;➔&nbsp; 상관 분석 &nbsp;➔&nbsp; **3개 지표 선별**
+데이터 정형화 파이프라인을 구축하여 확보한 37개 지표 &nbsp;➔&nbsp; 전처리 &nbsp;➔&nbsp; 상관 분석 &nbsp;➔&nbsp; **3개 지표 선별**
 <br>
 > 지표 선택 시 어떻게 분석이 활용되었는가?
 
@@ -51,7 +51,7 @@ API를 통해 직접 수집한 20개 지표 &nbsp;➔&nbsp;  전처리 &nbsp;➔
 
 🟩 **Process Green** 
 
-API를 통해 직접 수집한 30개 지표 &nbsp;➔&nbsp; 전처리 &nbsp;➔&nbsp; 차원 축소, EDA, 상관 분석 &nbsp;➔&nbsp; **1개 지표 선별**
+API를 통해 수집한 30개 지표 &nbsp;➔&nbsp; 전처리 &nbsp;➔&nbsp; 차원 축소, EDA, 상관 분석 &nbsp;➔&nbsp; **1개 지표 선별**
 <br>
 > 지표 선택 시 어떻게 분석이 활용되었는가?
 
@@ -67,7 +67,7 @@ API를 통해 직접 수집한 30개 지표 &nbsp;➔&nbsp; 전처리 &nbsp;➔&
 
 🟨 **Process Yellow** 
 
-대규모 데이터 정형화 파이프라인을 통해 확보한 14개 지표 &nbsp;➔&nbsp; 전처리 &nbsp;➔&nbsp; EDA, 상관 분석 &nbsp;➔&nbsp; **3개 지표 선별**
+데이터 정형화 파이프라인을 구축하여 확보한 14개 지표 &nbsp;➔&nbsp; 전처리 &nbsp;➔&nbsp; EDA, 상관 분석 &nbsp;➔&nbsp; **3개 지표 선별**
 <br>
 > 지표 선택 시 어떻게 분석이 활용되었는가?
 
