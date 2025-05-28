@@ -1,20 +1,31 @@
-# Description
-- **Title**: **`대규모 생물학 데이터에 대한 다변량 EDA 및 통계 모델링을 사용하여 품질 평가 지표 개발`** <br> Develop a quality assessment index using multivariate EDA and statistical modeling on large-scale biological data 
+## Project Overview
+**`대규모 생물학 데이터에 대한 다변량 EDA 및 통계 모델링을 사용하여 품질 평가 지표 개발`** <br> 
 
-- **Tools**:&nbsp;&nbsp;
+- 📄 **Publication**: [Benchmark study for evaluating the quality of reference genomes and gene annotations in 114 species](https://doi.org/10.3389/fvets.2023.1128570)
+  
+- 🏆 **Journal**: *Frontiers in Veterinary Science* (SCI, JCR Top 10%) &nbsp;&nbsp;**수의학 분야 상위 10% 저널에 게재**
+  
+- 📊 **Citation**: 2025.05 기준, 8회 인용 
+
+- 🙋‍♂️ **My Contribution**: Co–first author (문제 정의부터 데이터 수집·전처리, 통계 분석과 인사이트 도출, 시각화까지 연구 전 과정에 50% 기여)
+<br><br>
+
+## Tech Stack
+- **Programming**:
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+- **Visualization**:
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-- **Skills**: Exploratory Data Analysis, Correlation Analysis, Unsupervised Learning, Data ETL pipeline, Data Preprocessing, Visualization
+![ggplot2](https://img.shields.io/badge/ggplot2-2C3E50?style=flat-square&logo=ggplot2&logoColor=white)
 
-### 📄 Publication Info
-- **Journal**: *Frontiers in Veterinary Science* (SCI, JCR Top 10%) &nbsp;&nbsp;**수의학 분야 상위 10% 저널에 게재**
-- **Citation**: Park S, Lee J, Kim J, Kim D, Lee JH, Pack SP, and Seo M (2023). Benchmark study for evaluating the quality of reference genomes and gene annotations in 114 species. *Front. Vet. Sci.* 10:1128570. &nbsp;&nbsp;**2025.05 기준 8회 인용**
+- **Analysis**: `Data Preprocessing` `Data Normalization` `Exploratory Data Analysis` `Correlation Analysis` `Unsupervised Learning` `Data ETL pipeline`  `Visualization`
 
-### 🙋‍♂️ My Contribution
-- **Co–first author** (문제 정의부터 데이터 수집·전처리, 통계 분석과 인사이트 도출, 시각화까지 연구 전 과정에 50% 이상 주도적으로 참여)
-<br><br>
-# Summary
+- **Data**
+  - [기초 생물정보 통계 데이터] - 공식 생물정보 DB의 API를 활용한 자동 수집 (114 species x 50 indices)
+  - [대규모 염기서열 데이터] - 약 25TB 데이터 수집 및 Bash 기반 파이프라인 구축을 통한 정형화 (114 species x 51 indices)
+
+## Summary
 ### 🤔 Problem
 
 의생명 연구의 신뢰성에 직접적인 영향을 미치는 두 가지 유전체 자료의 상대적인 품질을 동시에 평가하는 체계적인 연구는 존재 하지 않음 
@@ -27,7 +38,7 @@
 
 🟥 **Process Red**
 
-API를 통해 수집한 20개 지표 &nbsp;➔&nbsp;  전처리 &nbsp;➔&nbsp; EDA (기초 통계 분석, 그룹 간 비교 분석), 상관 분석 &nbsp;➔&nbsp; **3개 지표 선별**
+공식 DB 기반 20개 지표 &nbsp;➔&nbsp;  전처리 &nbsp;➔&nbsp; EDA (기초 통계 분석, 그룹 간 비교 분석), 상관 분석 &nbsp;➔&nbsp; **3개 지표 선별**
 <br>
 > 지표 선택 시 어떻게 분석이 활용되었는가?
 
@@ -40,7 +51,7 @@ API를 통해 수집한 20개 지표 &nbsp;➔&nbsp;  전처리 &nbsp;➔&nbsp; 
 
 🟦 **Process Blue** 
 
-대규모 데이터 ETL 파이프라인을 구축하여 확보한 37개 지표 &nbsp;➔&nbsp; 전처리 &nbsp;➔&nbsp; 상관 분석 &nbsp;➔&nbsp; **3개 지표 선별**
+파이프라인으로 확보한 37개 지표 &nbsp;➔&nbsp; 전처리 &nbsp;➔&nbsp; 상관 분석 &nbsp;➔&nbsp; **3개 지표 선별**
 <br>
 > 지표 선택 시 어떻게 분석이 활용되었는가?
 
@@ -51,7 +62,7 @@ API를 통해 수집한 20개 지표 &nbsp;➔&nbsp;  전처리 &nbsp;➔&nbsp; 
 
 🟩 **Process Green** 
 
-API를 통해 수집한 30개 지표 &nbsp;➔&nbsp; 전처리 &nbsp;➔&nbsp; 차원 축소, EDA, 상관 분석 &nbsp;➔&nbsp; **1개 지표 선별**
+공식 DB 기반 30개 지표 &nbsp;➔&nbsp; 전처리 &nbsp;➔&nbsp; 차원 축소, EDA, 상관 분석 &nbsp;➔&nbsp; **1개 지표 선별**
 <br>
 > 지표 선택 시 어떻게 분석이 활용되었는가?
 
@@ -67,7 +78,7 @@ API를 통해 수집한 30개 지표 &nbsp;➔&nbsp; 전처리 &nbsp;➔&nbsp; �
 
 🟨 **Process Yellow** 
 
-대규모 데이터 ETL 파이프라인을 구축하여 확보한 14개 지표 &nbsp;➔&nbsp; 전처리 &nbsp;➔&nbsp; EDA, 상관 분석 &nbsp;➔&nbsp; **3개 지표 선별**
+파이프라인으로 확보한 14개 지표 &nbsp;➔&nbsp; 전처리 &nbsp;➔&nbsp; EDA, 상관 분석 &nbsp;➔&nbsp; **3개 지표 선별**
 <br>
 > 지표 선택 시 어떻게 분석이 활용되었는가?
 
