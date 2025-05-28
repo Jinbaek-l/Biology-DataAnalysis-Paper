@@ -1,18 +1,18 @@
 # Description
-- **Title**: Develop a quality assessment index using multivariate EDA and statistical modeling on large-scale biological data &nbsp; **`대규모 생물학 데이터에 대한 다변량 EDA 및 통계 모델링을 사용하여 품질 평가 지표 개발`**
+- **Title**: **`대규모 생물학 데이터에 대한 다변량 EDA 및 통계 모델링을 사용하여 품질 평가 지표 개발`** <br> Develop a quality assessment index using multivariate EDA and statistical modeling on large-scale biological data 
 
 - **Tools**:&nbsp;&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-- **Skills**: Exploratory data analysis, Correlation analysis, Unsupervised learning, Data ETL pipeline, Data preprocessing, Visualization
+- **Skills**: Exploratory Data Analysis, Correlation Analysis, Unsupervised Learning, Data ETL pipeline, Data Preprocessing, Visualization
 
 ### 📄 Publication Info
-- **Journal**: *Frontiers in Veterinary Science* (SCI, JCR Top 10%)  
-- **Citation**: Park S, Lee J, Kim J, Kim D, Lee JH, Pack SP, and Seo M (2023). Benchmark study for evaluating the quality of reference genomes and gene annotations in 114 species. *Front. Vet. Sci.* 10:1128570. 
+- **Journal**: *Frontiers in Veterinary Science* (SCI, JCR Top 10%) &nbsp;&nbsp;**수의학 분야 상위 10% 저널에 게재**
+- **Citation**: Park S, Lee J, Kim J, Kim D, Lee JH, Pack SP, and Seo M (2023). Benchmark study for evaluating the quality of reference genomes and gene annotations in 114 species. *Front. Vet. Sci.* 10:1128570. &nbsp;&nbsp;**2025.05 기준 8회 인용**
 
 ### 🙋‍♂️ My Contribution
-- **Co–first author** (50% contribution to the overall research and manuscript writing)
+- **Co–first author** (문제 정의부터 데이터 수집·전처리, 통계 분석과 인사이트 도출, 시각화까지 연구 전 과정에 50% 이상 주도적으로 참여)
 <br><br>
 # Summary
 ### 🤔 Problem
@@ -40,7 +40,7 @@ API를 통해 수집한 20개 지표 &nbsp;➔&nbsp;  전처리 &nbsp;➔&nbsp; 
 
 🟦 **Process Blue** 
 
-데이터 정형화 파이프라인을 구축하여 확보한 37개 지표 &nbsp;➔&nbsp; 전처리 &nbsp;➔&nbsp; 상관 분석 &nbsp;➔&nbsp; **3개 지표 선별**
+대규모 데이터 ETL 파이프라인을 구축하여 확보한 37개 지표 &nbsp;➔&nbsp; 전처리 &nbsp;➔&nbsp; 상관 분석 &nbsp;➔&nbsp; **3개 지표 선별**
 <br>
 > 지표 선택 시 어떻게 분석이 활용되었는가?
 
@@ -67,7 +67,7 @@ API를 통해 수집한 30개 지표 &nbsp;➔&nbsp; 전처리 &nbsp;➔&nbsp; �
 
 🟨 **Process Yellow** 
 
-데이터 정형화 파이프라인을 구축하여 확보한 14개 지표 &nbsp;➔&nbsp; 전처리 &nbsp;➔&nbsp; EDA, 상관 분석 &nbsp;➔&nbsp; **3개 지표 선별**
+대규모 데이터 ETL 파이프라인을 구축하여 확보한 14개 지표 &nbsp;➔&nbsp; 전처리 &nbsp;➔&nbsp; EDA, 상관 분석 &nbsp;➔&nbsp; **3개 지표 선별**
 <br>
 > 지표 선택 시 어떻게 분석이 활용되었는가?
 
