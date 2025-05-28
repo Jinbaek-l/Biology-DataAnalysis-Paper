@@ -122,13 +122,13 @@
 ### 📑 Scripts
 **package_manager.R**: &nbsp;다른 스크립트에서 필요한 패키지를 설치 및 로드하는 스크립트로, 직접 실행할 필요는 없음
 
-**1_assembly_quality_statistic.R**: &nbsp;`Process Red`의 분석 및 시각화를 위한 R 스크립트. 지표 선별 논리는 Results의 두 번째 섹션에 설명되어 있음.
+**1_assembly_quality_statistic.R**: &nbsp;`Process Red`의 분석 및 시각화를 위한 R 스크립트. 구체적인 지표 선별 논리는 논문 참고.
 
-**2_alignment_quality_statistics.R**: &nbsp;`Process Blue`의 분석 및 시각화를 위한 R 스크립트. 지표 선별 논리는 Results의 세 번째 섹션에 설명되어 있음.
+**2_alignment_quality_statistics.R**: &nbsp;`Process Blue`의 분석 및 시각화를 위한 R 스크립트. 구체적인 지표 선별 논리는 논문 참고.
 
-**3_gene_annotation_quality_statistic.R**: &nbsp;`Process Green`의 분석 및 시각화를 위한 R 스크립트. 지표 선별 논리는 Results의 네 번째 섹션에 설명되어 있음.
+**3_gene_annotation_quality_statistic.R**: &nbsp;`Process Green`의 분석 및 시각화를 위한 R 스크립트. 구체적인 지표 선별 논리는 논문 참고.
 
-**4_quantification_quality_statistics.R**: &nbsp;`Process Yellow`의 분석 및 시각화를 위한 R 스크립트. 지표 선별 논리는 Results의 다섯 번째 섹션에 설명되어 있음.
+**4_quantification_quality_statistics.R**: &nbsp;`Process Yellow`의 분석 및 시각화를 위한 R 스크립트. 구체적인 지표 선별 논리는 논문 참고.
 
 **5_ngs_applicable_index.R**: &nbsp;선택된 10개의 지표와 통합 품질 지표를 시각화하는 R 스크립트
 
