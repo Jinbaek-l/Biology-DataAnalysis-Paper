@@ -7,7 +7,7 @@
   
 - 📊 **Citation**: 2025.06 기준, 9회 인용 
 
-- 🙋‍♂️ **My Contribution**: Co–first author - **문제 정의, 데이터 수집·전처리, 통계 분석 및 인사이트 도출, 시각화까지 연구 전 과정에 50% 기여**
+- 🙋‍♂️ **My Contribution**: Co–first author <br>**문제 정의, 데이터 수집·전처리, 통계 분석 및 인사이트 도출, 시각화까지 연구 전 과정에 50% 기여**
 <br><br>
 
 ## Tech Stack
