@@ -1,13 +1,13 @@
 ## Project Overview
 **`대규모 생물학 데이터에 대한 다변량 EDA 및 통계 모델링 기반 품질 평가 지표 개발`** <br> 
 
-- 📄 **Publication**: [Benchmark study for evaluating the quality of reference genomes and gene annotations in 114 species](https://doi.org/10.3389/fvets.2023.1128570)
+- 📄 **Publication** <br>[Benchmark study for evaluating the quality of reference genomes and gene annotations in 114 species](https://doi.org/10.3389/fvets.2023.1128570)
   
 - 🏆 **Journal**: *Frontiers in Veterinary Science* (SCI, JCR Top 10%) &nbsp;&nbsp;**수의학 분야 상위 10% 국제 저널 게재**
   
 - 📊 **Citation**: 2025.06 기준, 9회 인용 
 
-- 🙋‍♂️ **My Contribution**: 공동 제 1저자 <br>**문제 정의, 데이터 수집·전처리, 통계 분석 및 인사이트 도출, 시각화 연구 전 과정에 50% 기여**
+- 🙋‍♂️ **My Contribution**: 공동 제 1저자 <br>문제 정의, 데이터 수집·전처리, 통계 분석 및 인사이트 도출, 시각화 등 **논문 전 과정에 50% 기여**
 <br><br>
 
 ## Tech Stack
