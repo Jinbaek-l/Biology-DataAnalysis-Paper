@@ -22,8 +22,8 @@
 - **Analysis**: `Data Preprocessing` `Data Normalization` `Exploratory Data Analysis` `Correlation Analysis` `Unsupervised Learning` `Data ETL pipeline`  `Visualization`
 
 - **Data**
-  - **기초 생물정보 통계 데이터** - 공식 생물정보 데이터베이스의 API를 활용한 자동 수집: 114종 x 50개 지표
-  - **대규모 염기서열 데이터** - 약 25TB 대규모 데이터 수집/ 전처리/ 정형화 파이프라인 구축을 통한 수집: 114종 x 51개 지표
+  - **기초 생물정보 통계 데이터** - 공식 생물정보 데이터베이스의 API를 활용한 자동 수집 (114종 x 50개 지표)
+  - **대규모 염기서열 데이터** - 약 25TB 대규모 데이터 수집/ 전처리/ 정형화 파이프라인 구축을 통한 수집 (114종 x 51개 지표)
 
 ## Summary
 ### 🤔 Problem
