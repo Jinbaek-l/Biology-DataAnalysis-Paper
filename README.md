@@ -1,13 +1,13 @@
 ## Project Overview
-**`대규모 생물학 데이터에 대한 다변량 EDA 및 통계 모델링을 사용하여 품질 평가 지표 개발`** <br> 
+**`대규모 생물학 데이터에 대한 다변량 EDA 및 통계 모델링 기반 품질 평가 지표 개발`** <br> 
 
 - 📄 **Publication**: [Benchmark study for evaluating the quality of reference genomes and gene annotations in 114 species](https://doi.org/10.3389/fvets.2023.1128570)
   
-- 🏆 **Journal**: *Frontiers in Veterinary Science* (SCI, JCR Top 10%) &nbsp;&nbsp;**수의학 분야 상위 10% 저널에 게재**
+- 🏆 **Journal**: *Frontiers in Veterinary Science* (SCI, JCR Top 10%) &nbsp;&nbsp;**수의학 분야 상위 10% 국제 저널 게재**
   
-- 📊 **Citation**: 2025.05 기준, 8회 인용 
+- 📊 **Citation**: 2025.06 기준, 9회 인용 
 
-- 🙋‍♂️ **My Contribution**: Co–first author (문제 정의부터 데이터 수집·전처리, 통계 분석과 인사이트 도출, 시각화까지 연구 전 과정에 50% 기여)
+- 🙋‍♂️ **My Contribution**: Co–first author - **문제 정의, 데이터 수집·전처리, 통계 분석 및 인사이트 도출, 시각화까지 연구 전 과정에 50% 기여**
 <br><br>
 
 ## Tech Stack
@@ -22,13 +22,13 @@
 - **Analysis**: `Data Preprocessing` `Data Normalization` `Exploratory Data Analysis` `Correlation Analysis` `Unsupervised Learning` `Data ETL pipeline`  `Visualization`
 
 - **Data**
-  - [기초 생물정보 통계 데이터] - 공식 생물정보 DB의 API를 활용한 자동 수집 (114 species x 50 indices)
-  - [대규모 염기서열 데이터] - 약 25TB 데이터 수집 및 Bash 기반 파이프라인 구축을 통한 정형화 (114 species x 51 indices)
+  - **기초 생물정보 통계 데이터** - 공식 생물정보 데이터베이스의 API를 활용한 자동 수집: 114종 x 50개 지표
+  - **대규모 염기서열 데이터** - 약 25TB 대규모 데이터 수집/ 전처리/ 정형화 파이프라인 구축을 통한 수집: 114종 x 51개 지표
 
 ## Summary
 ### 🤔 Problem
 
-의생명 연구의 신뢰성에 직접적인 영향을 미치는 두 가지 유전체 자료의 상대적인 품질을 동시에 평가하는 체계적인 연구는 존재 하지 않음 
+현재 대부분의 생명과학 연구는 **두 가지 종류의 유전체 자료에 크게 의존**함. 그럼에도 불구하고, 다양한 종을 대상으로 이 **두 자료의 품질을 동시에 평가할 수 있는 체계적인 지표는 존재하지 않음**. 예컨대 사람이나 쥐처럼 활발히 연구된 종은 자료 품질이 높아 후속 연구의 신뢰성도 높을 수 있지만, 비주류 종은 품질이 낮을 가능성이 커 대체로 잘못된 연구 결과로 이어질 수 있음.
 
 ### 🔍 Approach & Workflow
 
