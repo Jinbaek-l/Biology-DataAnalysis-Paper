@@ -1,5 +1,5 @@
 ## Project Overview
-**`대규모 의·생명 데이터 EDA 및 통계 분석을 통한 지표 개발`** <br> 
+**`대규모 의생명 데이터 파이프라인 구축 및 통계 분석을 통한 지표 개발`** <br> 
 
 - 📄 **Publication** <br>[Benchmark study for evaluating the quality of reference genomes and gene annotations in 114 species](https://doi.org/10.3389/fvets.2023.1128570)
   
