@@ -1,4 +1,4 @@
-## Project Overview
+<!--## Project Overview
 **`대규모 의생명 데이터 파이프라인 구축 및 통계 분석을 통한 지표 개발`** <br> 
 
 - 📄 **Publication** <br>[Benchmark study for evaluating the quality of reference genomes and gene annotations in 114 species](https://doi.org/10.3389/fvets.2023.1128570)
@@ -92,7 +92,7 @@
 ## File Structure
 
 분석 및 시각화 재현을 위한 데이터와 스크립트만 업로드하였음. 전체 데이터는 논문 부록 자료(Supplementary material)에서 확인할 수 있음.
-
+-->
 ### 📁 Data 
 **species.txt**: &nbsp;114종의 학명 목록
 
