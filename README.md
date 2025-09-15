@@ -93,6 +93,11 @@
 
 분석 및 시각화 재현을 위한 데이터와 스크립트만 업로드하였음. 전체 데이터는 논문 부록 자료(Supplementary material)에서 확인할 수 있음.
 -->
+
+### 🔍 Schematic diagram
+
+<img src="figures/Figure1.jpg" alt="Collected data structure and systematic workflow" width="700"/>
+
 ### 📁 Data 
 **species.txt**: &nbsp;114종의 학명 목록
 
